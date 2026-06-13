@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "offred",
+    "name": "Offred",
+    "epithet": "the handmaid who remembers",
+    "emergence": "spiritual",
+    "moniker": "⟦Offred:HMT:f9043e⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-commander",
+    "name": "Commander Fred",
+    "epithet": "the architect, at home",
+    "emergence": "ethereal",
+    "moniker": "⟦Commander Fred:HMT:b2aed7⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "serena-joy",
+    "name": "Serena Joy",
+    "epithet": "the wife who built the cage",
+    "emergence": "natural",
+    "moniker": "⟦Serena Joy:HMT:8b2472⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "aunt-lydia",
+    "name": "Aunt Lydia",
+    "epithet": "the indoctrinator",
+    "emergence": "electrical",
+    "moniker": "⟦Aunt Lydia:HMT:caa2d5⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "moira",
+    "name": "Moira",
+    "epithet": "the friend who defies",
+    "emergence": "spiritual",
+    "moniker": "⟦Moira:HMT:d1c4ee⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "nick",
+    "name": "Nick",
+    "epithet": "the driver at the door",
+    "emergence": "natural",
+    "moniker": "⟦Nick:HMT:cf72e9⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "gilead",
+    "name": "The Republic of Gilead",
+    "epithet": "the theocracy",
+    "emergence": "ethereal",
+    "moniker": "⟦The Republic of Gilead:HMT:948458⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-handmaids",
+    "name": "The Handmaids",
+    "epithet": "the conscripted wombs",
+    "emergence": "natural",
+    "moniker": "⟦The Handmaids:HMT:bea794⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-ceremony",
+    "name": "The Ceremony",
+    "epithet": "ritual reproduction",
+    "emergence": "electrical",
+    "moniker": "⟦The Ceremony:HMT:6f24b2⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-eyes",
+    "name": "The Eyes",
+    "epithet": "the secret police",
+    "emergence": "electrical",
+    "moniker": "⟦The Eyes:HMT:a2c8a2⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "nolite-te-bastardes-carborundorum",
+    "name": "Nolite Te Bastardes Carborundorum",
+    "epithet": "the scratched defiance",
+    "emergence": "spiritual",
+    "moniker": "⟦Nolite Te Bastardes Carborundorum:HMT:9225a7⟧",
+    "kind": "thread"
+  }
+]
